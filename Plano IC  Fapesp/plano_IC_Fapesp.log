@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.9.14)  23 OCT 2014 17:10
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.9.14)  2 NOV 2014 14:20
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**abntex2-modelo-trabalho-academico.tex
-(./abntex2-modelo-trabalho-academico.tex
+**plano_IC_Fapesp.tex
+(./plano_IC_Fapesp.tex
 LaTeX2e <2011/06/27>
 Babel <3.9h> and hyphenation patterns for 10 languages loaded.
 (/usr/share/texlive/texmf-dist/tex/latex/abntex2/abntex2.cls
@@ -923,37 +923,36 @@ LaTeX Warning: You have requested package `capamod',
 
 Package: abntex2novopacote 2014/09/01 Criacao desta customizacao do abnTeX2
 )
-Package color Info: Redefining color blue on input line 109.
-Package hyperref Info: Option `colorlinks' set `true' on input line 126.
-\abntex2-modelo-trabalho-academico@idxfile=\write4
-\openout4 = `abntex2-modelo-trabalho-academico.idx'.
+Package color Info: Redefining color blue on input line 81.
+Package hyperref Info: Option `colorlinks' set `true' on input line 98.
+\plano_IC_Fapesp@idxfile=\write4
+\openout4 = `plano_IC_Fapesp.idx'.
 
 
-Writing index file abntex2-modelo-trabalho-academico.idx 
-(./abntex2-modelo-trabalho-academico.aux)
-\openout1 = `abntex2-modelo-trabalho-academico.aux'.
+Writing index file plano_IC_Fapesp.idx 
+(./plano_IC_Fapesp.aux)
+\openout1 = `plano_IC_Fapesp.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 149.
-LaTeX Font Info:    ... okay on input line 149.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 149.
-LaTeX Font Info:    ... okay on input line 149.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 149.
-LaTeX Font Info:    ... okay on input line 149.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 149.
-LaTeX Font Info:    ... okay on input line 149.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 149.
-LaTeX Font Info:    ... okay on input line 149.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 149.
-LaTeX Font Info:    ... okay on input line 149.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 149.
-LaTeX Font Info:    ... okay on input line 149.
-LaTeX Font Info:    Try loading font information for T1+lmr on input line 149.
-
-(/usr/share/texmf/tex/latex/lm/t1lmr.fd
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 121.
+LaTeX Font Info:    ... okay on input line 121.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 121.
+LaTeX Font Info:    ... okay on input line 121.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 121.
+LaTeX Font Info:    ... okay on input line 121.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 121.
+LaTeX Font Info:    ... okay on input line 121.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 121.
+LaTeX Font Info:    ... okay on input line 121.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 121.
+LaTeX Font Info:    ... okay on input line 121.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 121.
+LaTeX Font Info:    ... okay on input line 121.
+LaTeX Font Info:    Try loading font information for T1+lmr on input line 121.
+ (/usr/share/texmf/tex/latex/lm/t1lmr.fd
 File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 \AtBeginShipoutBox=\box30
-Package hyperref Info: Link coloring ON on input line 149.
+Package hyperref Info: Link coloring ON on input line 121.
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
@@ -965,18 +964,18 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
 Redoing nameref's sectioning
 Redoing nameref's label
-LaTeX Info: Redefining \nameref on input line 149.
-LaTeX Info: Redefining \ref on input line 149.
-LaTeX Info: Redefining \pageref on input line 149.
-LaTeX Info: Redefining \nameref on input line 149.
-LaTeX Info: Redefining \degres on input line 149.
+LaTeX Info: Redefining \nameref on input line 121.
+LaTeX Info: Redefining \ref on input line 121.
+LaTeX Info: Redefining \pageref on input line 121.
+LaTeX Info: Redefining \nameref on input line 121.
+LaTeX Info: Redefining \degres on input line 121.
 
 Package frenchb.ldf Warning: The definition of \@makecaption has been changed,
 (frenchb.ldf)                frenchb will NOT customise it;
-(frenchb.ldf)                reported on input line 149.
+(frenchb.ldf)                reported on input line 121.
 
-LaTeX Info: Redefining \dots on input line 149.
-LaTeX Info: Redefining \up on input line 149.
+LaTeX Info: Redefining \dots on input line 121.
+LaTeX Info: Redefining \up on input line 121.
 \myptabbox=\box31
 \myptabboxwidth=\skip203
 Package lastpage Info: Please have a look at the pageslts package at
@@ -985,7 +984,7 @@ Package lastpage Info: Please have a look at the pageslts package at
 (lastpage)             or
 (lastpage)             http://www.ctan.org/tex-archive/ 
 (lastpage)             install/macros/latex/contrib/pageslts.tds.zip
-(lastpage)             ! on input line 149.
+(lastpage)             ! on input line 121.
 (/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count176
@@ -1014,7 +1013,7 @@ G,.JBIG2,.JB2,.eps]
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-LaTeX Info: Redefining \microtypecontext on input line 149.
+LaTeX Info: Redefining \microtypecontext on input line 121.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
@@ -1032,9 +1031,9 @@ File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman
 <unesp2.jpg, id=4, 7026.25pt x 1032.85875pt>
 File: unesp2.jpg Graphic file (type jpg)
  <use unesp2.jpg>
-Package pdftex.def Info: unesp2.jpg used on input line 162.
+Package pdftex.def Info: unesp2.jpg used on input line 134.
 (pdftex.def)             Requested size: 351.33308pt x 51.64595pt.
-LaTeX Font Info:    Try loading font information for T1+lmss on input line 162.
+LaTeX Font Info:    Try loading font information for T1+lmss on input line 134.
 
 
 (/usr/share/texmf/tex/latex/lm/t1lmss.fd
@@ -1051,48 +1050,48 @@ ng (ext4): destination with the same identifier (name{page.1}) has been already
  used, duplicate ignored
 <to be read again> 
                    \relax 
-l.184 \end{resumo}
+l.156 \end{resumo}
                    [1
 
 
 ] [2
 
 ]
-LaTeX Font Info:    Try loading font information for OT1+lmr on input line 224.
+LaTeX Font Info:    Try loading font information for OT1+lmr on input line 196.
 
  (/usr/share/texmf/tex/latex/lm/ot1lmr.fd
 File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OML+lmm on input line 224.
+LaTeX Font Info:    Try loading font information for OML+lmm on input line 196.
 
 
 (/usr/share/texmf/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 224
+LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 196
 .
 
 (/usr/share/texmf/tex/latex/lm/omslmsy.fd
 File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OMX+lmex on input line 224
+LaTeX Font Info:    Try loading font information for OMX+lmex on input line 196
 .
 
 (/usr/share/texmf/tex/latex/lm/omxlmex.fd
 File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <12> on input line 224.
+(Font)              <12> on input line 196.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 224.
+(Font)              <8> on input line 196.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 224.
+(Font)              <6> on input line 196.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 228.
+(Font)              <10> on input line 200.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 228.
+(Font)              <7> on input line 200.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 228.
+(Font)              <5> on input line 200.
  [3
 
 
@@ -1103,10 +1102,9 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 ] [6
 
 ]
-(./abntex2-modelo-trabalho-academico.bbl
-(./abntex2-modelo-trabalho-academico.brf)
+(./plano_IC_Fapesp.bbl (./plano_IC_Fapesp.brf)
 \tf@brf=\write5
-\openout5 = `abntex2-modelo-trabalho-academico.brf'.
+\openout5 = `plano_IC_Fapesp.brf'.
 
  [7
 
@@ -1117,28 +1115,27 @@ AED: lastpage setting LastPage
 [8
 
 ]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 271.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 271.
- (./abntex2-modelo-trabalho-academico.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 271.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 271.
-Package rerunfilecheck Info: File `abntex2-modelo-trabalho-academico.brf' has n
-ot changed.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 243.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 243.
+ (./plano_IC_Fapesp.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 243.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 243.
+Package rerunfilecheck Info: File `plano_IC_Fapesp.brf' has not changed.
 (rerunfilecheck)             Checksum: 3C4F1BC866948EB92690BD21616F7A99;415.
 
 
 LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 271.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 243.
  ) 
 Here is how much of TeX's memory you used:
  13555 strings out of 494884
- 201942 string characters out of 6176882
- 446266 words of memory out of 5000000
+ 201654 string characters out of 6176882
+ 446248 words of memory out of 5000000
  16514 multiletter control sequences out of 15000+600000
  68785 words of font info for 80 fonts, out of 8000000 for 9000
  64 hyphenation exceptions out of 8191
- 39i,12n,35p,270b,524s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 39i,12n,35p,252b,524s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}</usr/share/texmf/fonts/type1/
 public/lm/lmbx12.pfb></usr/share/texmf/fonts/type1/public/lm/lmr10.pfb></usr/sh
 are/texmf/fonts/type1/public/lm/lmr12.pfb></usr/share/texmf/fonts/type1/public/
@@ -1146,8 +1143,7 @@ lm/lmr7.pfb></usr/share/texmf/fonts/type1/public/lm/lmr8.pfb></usr/share/texmf/
 fonts/type1/public/lm/lmri12.pfb></usr/share/texmf/fonts/type1/public/lm/lmss12
 .pfb></usr/share/texmf/fonts/type1/public/lm/lmss17.pfb></usr/share/texmf/fonts
 /type1/public/lm/lmssbx10.pfb>
-Output written on abntex2-modelo-trabalho-academico.pdf (9 pages, 537668 bytes)
-.
+Output written on plano_IC_Fapesp.pdf (9 pages, 537501 bytes).
 PDF statistics:
  165 PDF objects out of 1000 (max. 8388607)
  142 compressed objects within 2 object streams
